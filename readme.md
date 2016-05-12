@@ -14,8 +14,8 @@ HotFragment中的按钮是FoldableLayout，git地址：https://github.com/worldl
   InformationFragment中的数据来源于--干货集中营
   HotFragment中的数据来自知乎api
 
-  ![image](https://github.com/ButBueatiful/dotvim/raw/master/src1.png)
-   ![image](https://github.com/ButBueatiful/dotvim/raw/master/src2.png)
-    ![image](https://github.com/ButBueatiful/dotvim/raw/master/src3.png)
-     ![image](https://github.com/ButBueatiful/dotvim/raw/master/src4.png)
+  ![image](https://github.com/liu35fly/InformationClient/blob/master/src1.png)
+   ![image](https://github.com/liu35fly/InformationClient/blob/master//src2.png)
+    ![image](https://github.com/liu35fly/InformationClient/blob/master//src3.png)
+     ![image](https://github.com/liu35fly/InformationClient/blob/master//src4.png)
 
