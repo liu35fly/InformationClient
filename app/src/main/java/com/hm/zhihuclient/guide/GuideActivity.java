@@ -26,7 +26,6 @@ import java.util.Vector;
  */
 public class GuideActivity extends FragmentActivity implements GuideFragment.OnFragmentInteractionListener {
 
-    private static String shareKey = "isFirst";
     private List<Fragment> fragments = new Vector<>();
     private PagerAdapter mPagerAdapter;
     private ViewPager viewPager;
@@ -35,9 +34,11 @@ public class GuideActivity extends FragmentActivity implements GuideFragment.OnF
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
         setContentView(R.layout.activity_guide);
 
-        if (SharePerfenerceManager.newInstance(this).isFirst(shareKey)) {
+        if (SharePerfenerceManager.newInstance(this).isFirst()) {
             Intent intent = new Intent(this, MainActivity.class);
             startActivity(intent);
             finish();
