@@ -1,5 +1,6 @@
 
  自己业余实践做的，做的一般，只是到后面不知道该添些什么内容，所以设置模块功能很少。
+ 
   ![image](https://github.com/liu35fly/InformationClient/blob/master/src1.png)
    ![image](https://github.com/liu35fly/InformationClient/blob/master//src2.png)
     ![image](https://github.com/liu35fly/InformationClient/blob/master//src3.png)
